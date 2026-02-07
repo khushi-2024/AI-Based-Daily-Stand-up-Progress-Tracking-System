@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+sqlmodel
+requests
+python-dotenv
+apscheduler
+groq
